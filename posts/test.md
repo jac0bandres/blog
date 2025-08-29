@@ -310,4 +310,4 @@ normal paragraph. For example:
 Use the `printf()` function.
 
 # Images
-![Testing image](https://raw.githubusercontent.com/jac0bandres/blogs/images/main/IMG_6835.JPEG)
+![Testing image](https://raw.githubusercontent.com/jac0bandres/blogs/main/images/IMG_6835.JPEG)
