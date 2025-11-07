@@ -1,3 +1,5 @@
+# Benjamin Franklin and His Contributions to Electromagnetism
+
 Benjamin Franklin's foremost work *Experiments and Observations on Electricity (1751)* was America's first scientific contribution to the field. He observed several electrical phenomena, from static charges to capacitors, and many of his discoveries held practical importance, even today. Franklin's observations laid the foundations for modern electrical engineering. Today, his experiments are the origin of fundamental concepts. We will examine Franklin's contributions of electromagnetism through his own writings as well as reflect on the significance of his work through the perspective of an electrical engineering student.
 
 ## Early Capacitors
